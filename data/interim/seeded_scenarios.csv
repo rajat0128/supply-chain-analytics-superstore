@@ -1,0 +1,13 @@
+product_id,loc_id,seeded_scenario
+Art,APC,Shortage scenario
+Art,LAT,Shortage scenario
+Binders,NAM,Shortage scenario
+Phones,LAT,Shortage scenario
+Storage,APC,Shortage scenario
+Storage,EUR,Shortage scenario
+Accessories,NAM,Excess scenario
+Art,NAM,Excess scenario
+Fasteners,LAT,Excess scenario
+Paper,EUR,Excess scenario
+Supplies,EUR,Excess scenario
+Supplies,LAT,Excess scenario

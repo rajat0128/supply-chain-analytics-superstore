@@ -1,0 +1,18 @@
+product_id,product_name,category,unit_price_usd,unit_cost_usd
+Bookcases,Bookcases,Furniture,176.48,157.0
+Chairs,Chairs,Furniture,121.73,110.35
+Furnishings,Furnishings,Furniture,34.35,30.17
+Tables,Tables,Furniture,245.55,266.34
+Appliances,Appliances,Office Supplies,166.35,143.04
+Art,Art,Office Supplies,22.83,19.27
+Binders,Binders,Office Supplies,21.56,18.17
+Envelopes,Envelopes,Office Supplies,20.39,16.86
+Fasteners,Fasteners,Office Supplies,9.92,8.55
+Labels,Labels,Office Supplies,7.87,6.26
+Paper,Paper,Office Supplies,19.05,14.43
+Storage,Storage,Office Supplies,66.62,60.21
+Supplies,Supplies,Office Supplies,28.45,25.81
+Accessories,Accessories,Technology,68.45,56.61
+Copiers,Copiers,Technology,202.5,167.81
+Machines,Machines,Technology,158.8,146.8
+Phones,Phones,Technology,143.79,125.54

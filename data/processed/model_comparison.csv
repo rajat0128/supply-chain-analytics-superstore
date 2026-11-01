@@ -1,0 +1,4 @@
+Model,WAPE,Bias,Forecast accuracy (1-WAPE)
+XGBoost (trend-aware),0.2653,0.0119,0.7347
+Seasonal naive (same month LY),0.344,-0.2001,0.656
+3-month moving average,0.307,-0.088,0.693

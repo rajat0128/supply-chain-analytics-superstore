@@ -1,0 +1,3 @@
+data/raw/global_superstore.csv
+__pycache__/
+*.pyc

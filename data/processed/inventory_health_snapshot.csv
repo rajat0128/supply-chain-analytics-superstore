@@ -1,0 +1,86 @@
+product_id,loc_id,on_hand_units,inventory_value_usd,avg_monthly_forecast,weekly_forecast_demand,weeks_of_supply,lead_time_weeks,safety_stock_units,status,aged_90plus_units,aged_90plus_value_usd,aged_flag,recommended_action
+Accessories,APC,137,7755.57,72.4,16.72,8.19,5.0,23.0,Healthy,0.0,0.0,OK,Monitor
+Accessories,EMA,107,6057.27,32.83,7.58,14.11,5.0,11.0,Healthy,0.0,0.0,OK,Monitor
+Accessories,EUR,62,3509.82,52.68,12.17,5.1,5.0,15.0,Healthy,0.0,0.0,OK,Monitor
+Accessories,LAT,192,10869.12,52.09,12.03,15.96,5.0,18.0,Healthy,0.0,0.0,OK,Monitor
+Accessories,NAM,465,26323.65,83.8,19.35,24.03,5.0,28.0,Excess,465.0,26323.65,Aged Risk,Pause new orders and rebalance stock to other hubs
+Appliances,APC,32,4577.28,37.9,8.75,3.66,3.0,12.0,Healthy,0.0,0.0,OK,Monitor
+Appliances,EMA,16,2288.64,16.56,3.82,4.18,3.0,6.0,Healthy,0.0,0.0,OK,Monitor
+Appliances,EUR,26,3719.04,31.59,7.3,3.56,3.0,10.0,Healthy,0.0,0.0,OK,Monitor
+Appliances,LAT,44,6293.76,28.15,6.5,6.77,3.0,11.0,Healthy,0.0,0.0,OK,Monitor
+Appliances,NAM,53,7581.12,49.76,11.49,4.61,3.0,16.0,Healthy,0.0,0.0,OK,Monitor
+Art,APC,0,0.0,72.27,16.69,0.0,3.0,22.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 72 units needed to cover lead time + safety stock
+Art,EMA,157,3025.39,88.2,20.37,7.71,3.0,27.0,Healthy,0.0,0.0,OK,Monitor
+Art,EUR,239,4605.53,148.66,34.33,6.96,3.0,44.0,Healthy,0.0,0.0,OK,Monitor
+Art,LAT,0,0.0,56.48,13.04,0.0,3.0,24.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 63 units needed to cover lead time + safety stock
+Art,NAM,386,7438.22,87.51,20.21,19.1,3.0,31.0,Excess,386.0,7438.22,Aged Risk,Pause new orders and rebalance stock to other hubs
+Binders,APC,217,3942.89,99.65,23.01,9.43,3.0,31.0,Healthy,0.0,0.0,OK,Monitor
+Binders,EMA,126,2289.42,92.48,21.36,5.9,3.0,27.0,Healthy,0.0,0.0,OK,Monitor
+Binders,EUR,218,3961.06,145.55,33.61,6.49,3.0,50.0,Healthy,0.0,0.0,OK,Monitor
+Binders,LAT,275,4996.75,89.37,20.64,13.32,3.0,32.0,Healthy,0.0,0.0,OK,Monitor
+Binders,NAM,0,0.0,159.53,36.84,0.0,3.0,54.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 165 units needed to cover lead time + safety stock
+Bookcases,APC,209,32813.0,69.88,16.14,12.95,6.43,19.0,Healthy,0.0,0.0,OK,Monitor
+Bookcases,EMA,32,5024.0,29.38,6.78,4.72,6.43,7.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 19 units needed to cover lead time + safety stock
+Bookcases,EUR,181,28417.0,55.2,12.75,14.2,6.43,17.0,Healthy,0.0,0.0,OK,Monitor
+Bookcases,LAT,215,33755.0,56.07,12.95,16.6,6.43,23.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Bookcases,NAM,54,8478.0,20.54,4.74,11.38,6.43,7.0,Healthy,0.0,0.0,OK,Monitor
+Chairs,APC,253,27918.55,105.41,24.34,10.39,6.43,37.0,Healthy,0.0,0.0,OK,Monitor
+Chairs,EMA,81,8938.35,30.87,7.13,11.36,6.43,10.0,Healthy,0.0,0.0,OK,Monitor
+Chairs,EUR,86,9490.1,49.99,11.55,7.45,6.43,13.0,Healthy,0.0,0.0,OK,Monitor
+Chairs,LAT,335,36967.25,83.07,19.19,17.46,6.43,31.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Chairs,NAM,138,15228.3,52.48,12.12,11.39,6.43,16.0,Healthy,0.0,0.0,OK,Monitor
+Copiers,APC,203,34065.43,66.93,15.46,13.13,5.0,17.0,Healthy,0.0,0.0,OK,Monitor
+Copiers,EMA,76,12753.56,25.86,5.97,12.72,5.0,9.0,Healthy,0.0,0.0,OK,Monitor
+Copiers,EUR,140,23493.4,56.64,13.08,10.7,5.0,19.0,Healthy,0.0,0.0,OK,Monitor
+Copiers,LAT,200,33562.0,54.07,12.49,16.02,5.0,21.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Copiers,NAM,17,2852.77,5.28,1.22,13.94,5.0,2.0,Healthy,0.0,0.0,OK,Monitor
+Envelopes,APC,120,2023.2,70.21,16.21,7.4,3.0,25.0,Healthy,0.0,0.0,OK,Monitor
+Envelopes,EMA,25,421.5,26.32,6.08,4.11,3.0,6.0,Healthy,0.0,0.0,OK,Monitor
+Envelopes,EUR,33,556.38,40.41,9.33,3.54,3.0,12.0,Healthy,0.0,0.0,OK,Monitor
+Envelopes,LAT,84,1416.24,58.83,13.59,6.18,3.0,26.0,Healthy,0.0,0.0,OK,Monitor
+Envelopes,NAM,72,1213.92,17.26,3.99,18.07,3.0,6.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Fasteners,APC,132,1128.6,71.5,16.51,7.99,3.0,22.0,Healthy,0.0,0.0,OK,Monitor
+Fasteners,EMA,21,179.55,36.13,8.34,2.52,3.0,13.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 17 units needed to cover lead time + safety stock
+Fasteners,EUR,47,401.85,44.27,10.22,4.6,3.0,15.0,Healthy,0.0,0.0,OK,Monitor
+Fasteners,LAT,322,2753.1,55.58,12.84,25.09,3.0,24.0,Excess,322.0,2753.1,Aged Risk,Pause new orders and rebalance stock to other hubs
+Fasteners,NAM,0,0.0,17.35,4.01,0.0,3.0,7.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 19 units needed to cover lead time + safety stock
+Furnishings,APC,252,7602.84,70.37,16.25,15.51,6.43,21.0,Healthy,0.0,0.0,OK,Monitor
+Furnishings,EMA,21,633.57,30.98,7.16,2.94,6.43,9.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 34 units needed to cover lead time + safety stock
+Furnishings,EUR,66,1991.22,49.65,11.47,5.76,6.43,14.0,Shortage Risk,5.0,150.85,OK,Expedite replenishment: about 22 units needed to cover lead time + safety stock
+Furnishings,LAT,268,8085.56,54.47,12.58,21.3,6.43,24.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Furnishings,NAM,330,9956.1,83.34,19.25,17.15,6.43,29.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Labels,APC,211,1320.86,80.77,18.65,11.31,3.0,25.0,Healthy,0.0,0.0,OK,Monitor
+Labels,EMA,16,100.16,31.58,7.29,2.19,3.0,10.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 16 units needed to cover lead time + safety stock
+Labels,EUR,56,350.56,52.13,12.04,4.65,3.0,18.0,Healthy,0.0,0.0,OK,Monitor
+Labels,LAT,243,1521.18,57.74,13.33,18.22,3.0,24.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Labels,NAM,104,651.04,32.46,7.5,13.87,3.0,11.0,Healthy,0.0,0.0,OK,Monitor
+Machines,APC,65,9542.0,36.4,8.41,7.73,5.0,8.0,Healthy,0.0,0.0,OK,Monitor
+Machines,EMA,23,3376.4,28.4,6.56,3.51,5.0,10.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 20 units needed to cover lead time + safety stock
+Machines,EUR,120,17616.0,49.27,11.38,10.55,5.0,17.0,Healthy,0.0,0.0,OK,Monitor
+Machines,LAT,66,9688.8,14.64,3.38,19.53,5.0,5.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Machines,NAM,27,3963.6,9.82,2.27,11.91,5.0,3.0,Healthy,0.0,0.0,OK,Monitor
+Paper,APC,120,1731.6,65.94,15.23,7.88,3.0,18.0,Healthy,0.0,0.0,OK,Monitor
+Paper,EMA,21,303.03,25.16,5.81,3.61,3.0,7.0,Healthy,1.0,14.43,OK,Monitor
+Paper,EUR,384,5541.12,44.99,10.39,36.95,3.0,11.0,Excess,384.0,5541.12,Aged Risk,Pause new orders and rebalance stock to other hubs
+Paper,LAT,143,2063.49,53.57,12.37,11.56,3.0,23.0,Healthy,0.0,0.0,OK,Monitor
+Paper,NAM,318,4588.74,127.98,29.56,10.76,3.0,44.0,Healthy,0.0,0.0,OK,Monitor
+Phones,APC,152,19082.08,65.1,15.04,10.11,5.0,25.0,Healthy,0.0,0.0,OK,Monitor
+Phones,EMA,67,8411.18,37.43,8.65,7.75,5.0,8.0,Healthy,0.0,0.0,OK,Monitor
+Phones,EUR,121,15190.34,59.42,13.72,8.82,5.0,21.0,Healthy,0.0,0.0,OK,Monitor
+Phones,LAT,18,2259.72,59.35,13.71,1.31,5.0,26.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 77 units needed to cover lead time + safety stock
+Phones,NAM,243,30506.22,81.62,18.85,12.89,5.0,28.0,Healthy,0.0,0.0,OK,Monitor
+Storage,APC,18,1083.78,79.28,18.31,0.98,3.0,30.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 67 units needed to cover lead time + safety stock
+Storage,EMA,148,8911.08,78.47,18.12,8.17,3.0,25.0,Healthy,0.0,0.0,OK,Monitor
+Storage,EUR,0,0.0,145.7,33.65,0.0,3.0,45.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 146 units needed to cover lead time + safety stock
+Storage,LAT,204,12282.84,71.82,16.59,12.3,3.0,26.0,Healthy,0.0,0.0,OK,Monitor
+Storage,NAM,222,13366.62,78.46,18.12,12.25,3.0,30.0,Healthy,0.0,0.0,OK,Monitor
+Supplies,APC,155,4000.55,77.11,17.81,8.7,3.0,26.0,Healthy,0.0,0.0,OK,Monitor
+Supplies,EMA,24,619.44,35.09,8.1,2.96,3.0,10.0,Shortage Risk,0.0,0.0,OK,Expedite replenishment: about 10 units needed to cover lead time + safety stock
+Supplies,EUR,86,2219.66,56.37,13.02,6.61,3.0,22.0,Healthy,47.0,1213.07,Aged Risk,Prioritise aged units for sale or transfer
+Supplies,LAT,624,16105.44,59.49,13.74,45.42,3.0,20.0,Excess,624.0,16105.44,Aged Risk,Pause new orders and rebalance stock to other hubs
+Supplies,NAM,18,464.58,16.11,3.72,4.84,3.0,4.0,Healthy,0.0,0.0,OK,Monitor
+Tables,APC,14,3728.76,19.65,4.54,3.09,6.43,3.0,Shortage Risk,6.0,1598.04,Aged Risk,Expedite replenishment: about 18 units needed to cover lead time + safety stock
+Tables,EMA,14,3728.76,5.48,1.27,11.07,6.43,2.0,Healthy,0.0,0.0,OK,Monitor
+Tables,EUR,22,5859.48,8.43,1.95,11.3,6.43,2.0,Healthy,22.0,5859.48,Aged Risk,Prioritise aged units for sale or transfer
+Tables,LAT,78,20774.52,18.97,4.38,17.81,6.43,8.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs
+Tables,NAM,103,27433.02,27.52,6.36,16.21,6.43,12.0,Excess,0.0,0.0,OK,Pause new orders and rebalance stock to other hubs

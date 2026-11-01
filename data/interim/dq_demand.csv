@@ -1,0 +1,11 @@
+Check,Rows affected,Treatment
+Raw order lines loaded,51290,Each row is one product line on an order
+Order Date in dd-mm-yyyy format,31223,Order Date mixes dd-mm-yyyy and m/d/yyyy; both parsed to real dates
+Order Date in m/d/yyyy format,20067,Parsed with the US-style format
+Ship Date not usable for lead time,24348,Order-to-ship gap is negative or implausible after parsing; lead times are therefore ASSUMED in this project
+Postal Code missing,41296,Column not needed; ignored
+Exact duplicate rows,0,None found
+Quantity <= 0,0,None found
+Markets grouped into 5 hubs,7,"US+Canada, LATAM, EU, APAC, EMEA+Africa to keep series volumes large enough to forecast"
+Empty product-hub-months set to 0,51,No orders that month = zero demand
+Final monthly series,85,48 months each (Jan 2011 to Dec 2014)
